@@ -236,7 +236,7 @@
         border-radius: 5px;
         border: none;
         font-weight: var(--weight-heavy);
-        font-size: var(--quote-text);
+        font-size: var(--hero-seco);
     }
 
     .info-card{
@@ -288,6 +288,6 @@
         border-radius: 6px;
         border: 2px solid var(--primary-text);
         font-weight: var(--weight-heavy);
-        font-size: var(--quote-text);
+        font-size: var(--hero-seco);
 
     }

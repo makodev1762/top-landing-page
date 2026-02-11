@@ -16,7 +16,7 @@ Construir una interfaz web completa traduciendo una especificación de diseño v
 > [!IMPORTANT]
 > **Nota de diseño:** A diferencia del proyecto anterior (Recipes), este proyecto integra CSS desde el inicio para lograr una experiencia visual completa y fluida.
 
-Puedes ver el resultado en vivo aquí: [Enlace a GitHub Sites](https://makore1762.github.io/top-landing-page/)
+Puedes ver el resultado en vivo aquí: [Enlace a GitHub Sites](https://makodev1762.github.io/top-landing-page/)
 
 ---     
 
